@@ -27,6 +27,14 @@ sumTwoNumbers()
 
 ```
 fucntion sumTwoNumbers(num1, num2){
-    
+
+}
+```
+
+## Using the ES6 standard const (arrow function)
+
+```
+const printMyName = (name) => {
+    return console.log(`This is my ${name}`)
 }
 ```
